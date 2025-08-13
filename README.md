@@ -1,5 +1,3 @@
-# ⚠️DA COMPLETARE
-
 # ConsoleCore
 
 **ConsoleCore** è un plugin per **Minecraft 1.19.4** scritto in **Java** che funge da *core admin tool*, permettendo di eseguire **comandi della console direttamente in game** e includendo un set completo di comandi amministrativi, gestione giocatori, controllo mondo, gestione server e utilità varie.
