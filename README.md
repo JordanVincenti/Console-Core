@@ -35,9 +35,9 @@
 | `/endersee <giocatore>` | Visualizza Ender Chest di un giocatore. | `console.endersee` |
 | `/speed <1-10>` | Modifica la velocità di camminata/volo. | `console.speed` |
 | `/vanish` | Rende invisibile agli altri giocatori. | `console.vanish` |
-| `/time set <giorno|notte|valore>` | Imposta l’orario. | `console.time` |
+| `/time set <giorno / notte / valore>` | Imposta l’orario. | `console.time` |
 | `/time add <tick>` | Aggiunge tempo al mondo. | `console.time` |
-| `/weather <sole|pioggia|temporale>` | Cambia il meteo. | `console.weather` |
+| `/weather <sole / pioggia / temporale>` | Cambia il meteo. | `console.weather` |
 | `/gamerule <regola> <valore>` | Modifica le gamerule. | `console.gamerule` |
 | `/day` | Imposta giorno. | `console.day` |
 | `/night` | Imposta notte. | `console.night` |
