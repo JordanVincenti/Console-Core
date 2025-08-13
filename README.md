@@ -70,9 +70,9 @@
 ---
 
 ## 💸 Prezzo
-- **Plugin base:** 5€  
-- **Plugin base + modifiche:** 7€  
-- **Plugin completamente modificato:** 10€  
+- **Plugin base:** 10€  
+- **Plugin base + modifiche:** 15€  
+- **Plugin completamente modificato:** 30€  
 
 ⚠️ **Attenzione:** Le modifiche saranno apportate **solo ed esclusivamente al plugin richiesto**.  
 Se si richiedono modifiche al plugin X, **non** si può chiedere di modificare anche il plugin Y senza pagare una nuova modifica.  
